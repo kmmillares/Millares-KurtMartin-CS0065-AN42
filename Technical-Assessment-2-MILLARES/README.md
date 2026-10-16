@@ -18,8 +18,8 @@ The agent perceives the state of its current room and decides whether to clean i
 ## Files
 
 - `TA2_Millares.pdf` – Technical assessment report containing the background, Python source code, laboratory tasks, simulation instructions, and answers to the analysis questions.
-- `rule_based_agent.py` – Python script implementing the basic two-room rule-based agent. *(Replace with your actual Python filename if different.)*
-- `rule_based_agent_bonus.py` – Python script implementing the optional three-room bonus task. *(Include this file only if you saved the bonus implementation separately.)*
+- `room_check_simulation.py` – Python script implementing the basic two-room rule-based agent.
+- `three_room_check_cimulation.py` – Python script implementing the optional three-room bonus task.
 
 ## Technologies Used
 
